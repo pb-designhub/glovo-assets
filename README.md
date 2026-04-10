@@ -1,0 +1,2 @@
+# glovo-assets
+Glovo Images
